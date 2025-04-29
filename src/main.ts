@@ -64,7 +64,6 @@ async function loadData(): Promise<void> {
       if (style) {
         card.classList.add(style.bgColor, style.bgImage);
       } else {
-        // fallback або лог помилки
         console.warn(`Unknown title "${item.title}" — no style applied`);
       }
 
