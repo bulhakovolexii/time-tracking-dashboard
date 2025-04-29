@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bulhakovolexii/time-tracking-dashboard)
-- Live Site URL: [Add live site URL here](https://bulhakovolexii.github.io/time-tracking-dashboard)
+- Solution URL: [GitHub](https://github.com/bulhakovolexii/time-tracking-dashboard)
+- Live Site URL: [GitHub Pages](https://bulhakovolexii.github.io/time-tracking-dashboard)
 
 ## My process
 
